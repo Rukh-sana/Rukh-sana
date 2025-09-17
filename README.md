@@ -1,5 +1,3 @@
-# Welcome to My GitHub! 👨‍💻
-
 ## About Me
 Aspiring researcher and engineer passionate about AI, robotics, and autonomous systems. I enjoy tackling complex problems and implementing cutting-edge algorithms.
 
